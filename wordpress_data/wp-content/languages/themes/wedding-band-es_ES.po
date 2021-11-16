@@ -1,0 +1,1062 @@
+# Translation of Themes - Wedding Band in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Wedding Band package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-03 14:29:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Wedding Band\n"
+
+#. Description of the theme
+msgid "Wedding Band is an elegantly designed WordPress theme for wedding websites. Wedding Band has been created as a solution for couples or wedding planners in need of a solid, easy to use and highly effective platform for putting together amazingly stylish wedding websites within minutes, Wedding band has been carefully crafted with attention to detail in every single nook and cranny to ensure you can build a perfectly visually appealing website using the theme. This exceptional and multipurpose template is customizable, well-organized and equipped with extraordinary features that you can use for building a website for your wedding. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Wedding Band helps you to easily and intuitively create beautiful and appealing websites. Check the demo at https://rarathemes.com/previews/?theme=wedding-band, documentation at https://docs.rarathemes.com/docs/wedding-band, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Wedding Band es un tema para WordPress con un diseño elegante para webs de bodas. Wedding Band ha sido creado como una solución para las parejas o los organizadores de bodas que necesitan usar una plataforma sólida, fácil de usar y altamente eficiente para poner en marcha maravillosos diseños de webs de bodas en minutos. Wedding Band ha sido elaborada cuidadosamente con atención al detalle Es una plantilla concebida con gran atención al detalle en cada rincón para asegurar que puedes crear una web visualmente atrayente con el tema. Esta plantilla excepcional y multiuso es personalizable, bien organizada y equipada con características extraordinarias que puedes usar para crear la web para tu boda. El tema está optimizado para el SEO con códigos optimizados, lo que hace que sea fácil para tu sitio posicionarse en Google y otros motores de búsqueda. El tema está rigurosamente probado y optimizado para la velocidad y la rapidez del tiempo de carga de la página y tiene un código limpio y seguro. Además, el tema está preparado para su traducción. Diseñado pensando en la participación del usuario, Wedding Band te ayuda a crear, fácil e intuitivamente, bonitas y atractivas webs. Revisa la demostración en https://rarathemes.com/previews/?theme=wedding-band, la documentación en https://docs.rarathemes.com/docs/wedding-band y obtén soporte en https://rarathemes.com/support-ticket/. "
+
+#. Theme Name of the theme
+msgid "Wedding Band"
+msgstr "Wedding Band"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/extras.php:245
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/tgmpa/recommended-plugins.php:59
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/template-functions.php:360
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:111
+msgid "Mobile"
+msgstr "Móvil"
+
+#: inc/custom-functions.php:268 inc/custom-functions.php:272
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/template-functions.php:51
+msgid "Skip to content (Press Enter)"
+msgstr "Saltar al contenido (presiona la tecla Intro)"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin necesita ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/template-functions.php:363
+msgid "Wedding Band | Developed By"
+msgstr "Wedding Band | Desarrollado por"
+
+#: inc/customizer/customizer.php:12
+msgid "Static Front Page"
+msgstr "Página de inicio estática"
+
+#: inc/widgets/widget-social-links.php:76
+#: inc/widgets/widget-social-links.php:158
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/widgets/widget-social-links.php:74
+#: inc/widgets/widget-social-links.php:153
+msgid "VK"
+msgstr "VK"
+
+#: inc/widgets/widget-social-links.php:72
+#: inc/widgets/widget-social-links.php:148
+msgid "OK"
+msgstr "OK"
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr "Información de copyright"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3513
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3505
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3504
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3504
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3504
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3502
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos alojamientos, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3496
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3493
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3153
+msgid "Plugin activation failed."
+msgstr "Ha fallado la activación del plugin."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2929
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2797
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2795
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2754
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2752
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se ha realizado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2721
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2718
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2712
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2679
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2609
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2598
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2543
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2542
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2528
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2505
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2493
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2485
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2477
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2395
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2391
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2387
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2337
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2328
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2325
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2322
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2316
+msgid "Active"
+msgstr "Activado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2314
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2310
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2293
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2290
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2287
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2271
+msgid "Recommended"
+msgstr "Recomendados"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2268
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1977
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1116
+#: inc/tgmpa/class-tgm-plugin-activation.php:2943
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:932
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:929
+#: inc/tgmpa/class-tgm-plugin-activation.php:932
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:929
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:518
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:517
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin tiene que ser actualizado para ser compatible con tu tema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para obtener ayuda."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2947
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3154
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:822
+#: inc/tgmpa/class-tgm-plugin-activation.php:2528
+#: inc/tgmpa/class-tgm-plugin-activation.php:3575
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/customizer/info.php:56
+msgid "About Wedding Band"
+msgstr "Acerca de Wedding Band"
+
+#: inc/customizer/info.php:51
+msgid "More WordPress Themes"
+msgstr "Más temas para WordPress"
+
+#: inc/customizer/info.php:50
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/customizer/info.php:49
+msgid "Support ticket"
+msgstr "Tique de soporte"
+
+#: inc/customizer/info.php:48
+msgid "Theme info"
+msgstr "Información del tema"
+
+#: inc/customizer/info.php:47
+msgid "View documentation"
+msgstr "Ver la documentación"
+
+#: inc/customizer/info.php:46 inc/customizer/info.php:47
+#: inc/customizer/info.php:48 inc/customizer/info.php:49
+#: inc/customizer/info.php:50 inc/customizer/info.php:51
+msgid "here"
+msgstr "aquí"
+
+#: inc/customizer/info.php:46
+msgid "View demo"
+msgstr "Ver la demostración"
+
+#: inc/customizer/info.php:45
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: inc/customizer/info.php:33
+msgid ""
+"<strong>Instruction for how to setup Home Page in Wedding Band Theme</strong><br/>1. Go to Pages and create a new page (Title can be anything. For example, Home )<br/>\n"
+"\t\t\t\t\t2. In right column and under Page Attributes, choose \"Home Page\" template<br/>\n"
+"\t\t\t\t\t3. Click on Publish<br/>\n"
+"\t\t\t\t\t4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>\n"
+"\t\t\t\t\t5. Select A static page<br/>\n"
+"\t\t\t\t\t6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"\t\t\t\t\t7. Save changes"
+msgstr ""
+"<strong>Instrucciones sobre cómo configurar la página de inicio en el tema Wedding Band</strong><br/>1. Ve a «Páginas» y crea una nueva página (el título puede ser cualquier cosa, por ejemplo, «Inicio»)<br/>\n"
+"\t\t\t\t\t2. En la columna de la derecha, en los atributos de la página, elige la plantilla «Página de inicio»<br/>\n"
+"\t\t\t\t\t3. Haz clic en «Publicar»<br/>\n"
+"\t\t\t\t\t4. Ve a «Apariencia > Personalizar > Ajustes por defecto > Página de inicio estática»<br/>\n"
+"\t\t\t\t\t5. Selecciona una página estática<br/>\n"
+"\t\t\t\t\t6. En «Página de inicio» selecciona la página que has creado en el paso 1<br/>\n"
+"\t\t\t\t\t7. Guarda los cambios"
+
+#: inc/customizer/info.php:12
+msgid "Information Links"
+msgstr "Enlaces de información "
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:31 template-parts/content-single.php:28
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:29 template-parts/content.php:37
+#: template-parts/content-single.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/widgets/widgets.php:39
+msgid "Widget for Google map section( Use Text widget for Google Map )."
+msgstr "Widget para la sección del mapa de Google (Usa un widget de texto para el mapa de Google)."
+
+#: inc/widgets/widgets.php:37
+msgid "Google Map Widget"
+msgstr "Widget del mapa de Google"
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer four widgets."
+msgstr "Añade los widgets del pie de página cuatro."
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Four"
+msgstr "Pie de página cuatro"
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer three widgets."
+msgstr "Añade los widgets del pie de página tres."
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Three"
+msgstr "Pie de página tres"
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer two widgets."
+msgstr "Añade los widgets del pie de página dos."
+
+#: inc/widgets/widgets.php:22
+msgid "Footer Two"
+msgstr "Pie de página dos"
+
+#: inc/widgets/widgets.php:19
+msgid "Add footer one widgets."
+msgstr "Añade los widgets del pie de página uno."
+
+#: inc/widgets/widgets.php:17
+msgid "Footer One"
+msgstr "Pie de página uno"
+
+#: inc/widgets/widgets.php:14
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: inc/widgets/widgets.php:12
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/widgets/widget-social-links.php:128
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-links.php:70
+#: inc/widgets/widget-social-links.php:143
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social-links.php:68
+#: inc/widgets/widget-social-links.php:138
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:133
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/widgets/widget-social-links.php:64
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-links.php:66
+#: inc/widgets/widget-social-links.php:123
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social-links.php:60
+#: inc/widgets/widget-social-links.php:118
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-social-links.php:58
+#: inc/widgets/widget-social-links.php:113
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget."
+msgstr "Un widget de enlaces sociales."
+
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Enlaces sociales"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Un widget de entradas recientes"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Entradas recientes"
+
+#: inc/widgets/widget-popular-post.php:129
+#: inc/widgets/widget-recent-post.php:128
+msgid "Show Post Date"
+msgstr "Mostrar la fecha de la entrada"
+
+#: inc/widgets/widget-popular-post.php:124
+#: inc/widgets/widget-recent-post.php:123
+msgid "Show Post Thumbnail"
+msgstr "Mostrar la miniatura de la entrada"
+
+#: inc/widgets/widget-popular-post.php:118
+#: inc/widgets/widget-recent-post.php:117
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: inc/widgets/widget-social-links.php:108
+#: inc/widgets/widget-popular-post.php:113
+#: inc/widgets/widget-recent-post.php:112
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Un widget de entradas populares"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Entradas populares"
+
+#: inc/template-functions.php:365
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: inc/template-functions.php:365
+msgid "Powered by %s"
+msgstr "Funciona con %s"
+
+#: inc/template-functions.php:360
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+#: inc/template-functions.php:253
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: inc/metabox.php:39
+msgid "Choose Sidebar Template"
+msgstr "Elige la plantilla de la barra lateral"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Barra lateral derecha (por defecto)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: inc/extras.php:110
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:109
+msgid ">>"
+msgstr ">>"
+
+#: inc/extras.php:108
+msgid "<<"
+msgstr "<<"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:48
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/extras.php:41
+msgid "Tags:  %1$s"
+msgstr "Etiquetas: %1$s"
+
+#. translators: %s: post title
+#: inc/extras.php:23
+msgid "% Comments"
+msgstr "% comentarios"
+
+#. translators: %s: post title
+#: inc/extras.php:23
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#. translators: %s: post title
+#: inc/extras.php:23
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:14 inc/extras.php:39
+msgid ", "
+msgstr ", "
+
+#: inc/customizer/home.php:18
+msgid "Customize Home Page Settings"
+msgstr "Personalizar los ajustes de la página de inicio"
+
+#: inc/customizer/home.php:17
+msgid "Home Page Settings"
+msgstr "Ajustes de la página de inicio"
+
+#: inc/customizer/home/story.php:52
+msgid "Select Story Post"
+msgstr "Seleccionar la entrada de la historia"
+
+#: inc/customizer/home/story.php:34
+msgid "Enable story Section"
+msgstr "Activar la sección de la historia"
+
+#: inc/customizer/home/story.php:16
+msgid "Story Section"
+msgstr "Sección de la historia"
+
+#: inc/customizer/home/slider.php:146
+msgid "Choose Slider Category"
+msgstr "Elegir la categoría del carrusel"
+
+#: inc/customizer/home/slider.php:128
+msgid "Readmore Text"
+msgstr "Texto de «Leer más»"
+
+#: sections/banner.php:8 inc/customizer/home/slider.php:120
+msgid "View More"
+msgstr "Ver más"
+
+#: inc/customizer/home/slider.php:111
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: inc/customizer/home/slider.php:110
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: inc/customizer/home/slider.php:106
+msgid "Choose Slider Animation"
+msgstr "Elegir la animación del carrusel"
+
+#: inc/customizer/home/slider.php:88
+msgid "Enable Slider Caption"
+msgstr "Activar la leyenda en el carrusel"
+
+#: inc/customizer/home/slider.php:70
+msgid "Enable Slider Loop"
+msgstr "Activar el bucle del carrusel"
+
+#: inc/customizer/home/slider.php:52
+msgid "Enable Slider Auto Transition"
+msgstr "Activar la transición automática del carrusel"
+
+#: inc/customizer/home/slider.php:34
+msgid "Enable Slider Section"
+msgstr "Activar la sección del carrusel"
+
+#: inc/customizer/home/slider.php:16
+msgid "Slider Section"
+msgstr "Sección del carrusel"
+
+#: inc/customizer/home/services.php:137
+msgid "Post Four"
+msgstr "Entrada cuatro"
+
+#: inc/customizer/home/services.php:119
+msgid "Post Three"
+msgstr "Entrada tres"
+
+#: inc/customizer/home/services.php:101
+msgid "Post Two"
+msgstr "Entrada dos"
+
+#: inc/customizer/home/services.php:83
+msgid "Post One"
+msgstr "Entrada uno"
+
+#: inc/customizer/home/services.php:34
+msgid "Enable Service Section"
+msgstr "Activar la sección de servicios"
+
+#: inc/customizer/home/services.php:16
+msgid "Service Section"
+msgstr "Sección de servicios"
+
+#: inc/customizer/home/map.php:33
+msgid "Enable Google map Section"
+msgstr "Activar la sección del mapa de Google"
+
+#: inc/customizer/home/map.php:15
+msgid "Google Map Section"
+msgstr "Sección del mapa de Google"
+
+#: inc/customizer/home/feature.php:82
+msgid "Choose Post Category"
+msgstr "Elegir la categoría de la entrada"
+
+#: inc/customizer/home/feature.php:34
+msgid "Enable Featured Post Section"
+msgstr "Activar la sección de entradas destacadas"
+
+#: inc/customizer/home/feature.php:16
+msgid "Featured Post Section"
+msgstr "Sección de entradas destacadas"
+
+#: inc/customizer/home/contactform.php:128
+msgid "Enter the Contact Form Shortcode. Ex. [contact-form-7 id=\"186\" title=\"Google contact\"]"
+msgstr "Introduce el shortcode del formulario de contacto. Ej.: [contact-form-7 id=\"186\" title=\"Contactar en Google\"]"
+
+#: inc/customizer/home/contactform.php:126
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: inc/customizer/home/contactform.php:109
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: inc/custom-functions.php:269 inc/custom-functions.php:274
+#: inc/customizer/home/contactform.php:94
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/customizer/home/contactform.php:79
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/customizer/home/contactform.php:48 inc/customizer/home/services.php:50
+#: inc/customizer/home/feature.php:50
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer/home/contactform.php:32
+msgid "Enable Contact Form Section"
+msgstr "Activar la sección del formulario de contacto"
+
+#: inc/customizer/home/contactform.php:14
+msgid "Contact Form Section"
+msgstr "Sección del formulario de contacto"
+
+#: inc/customizer/home/contactform.php:64 inc/customizer/home/services.php:66
+#: inc/customizer/home/blog.php:62 inc/customizer/home/feature.php:66
+msgid "Section Description"
+msgstr "Descripción de la sección"
+
+#: inc/customizer/home/blog.php:47
+msgid "Blog Section Title"
+msgstr "Título de la sección del blog"
+
+#: inc/customizer/home/blog.php:31
+msgid "Enable Blog Section"
+msgstr "Activar la sección del blog"
+
+#: inc/customizer/home/blog.php:13
+msgid "Blog Section"
+msgstr "Sección del blog"
+
+#: inc/customizer/home/about.php:70
+msgid "Read More Text"
+msgstr "Texto de «Leer más»"
+
+#: sections/blog.php:53 sections/about.php:8 sections/feature.php:47
+#: template-parts/content.php:44 inc/customizer/home/about.php:62
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer/home/about.php:51
+msgid "Select Page"
+msgstr "Seleccionar una página"
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr "Activar la sección «Acerca de»"
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr "Sección «Acerca de»"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer"
+msgstr "Sección por defecto proporcionada por el personalizador de WordPress"
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Ajustes por defecto"
+
+#: inc/customizer/customizer.php:48
+msgid "Choose Category"
+msgstr "Elegir la categoría"
+
+#: inc/customizer/customizer.php:32
+msgid "Choose page"
+msgstr "Elegir la página"
+
+#: inc/customizer/customizer.php:24
+msgid "Choose Post"
+msgstr "Elegir la entrada"
+
+#: inc/custom-functions.php:289
+msgid "Comment"
+msgstr "Comentario"
+
+#: inc/custom-functions.php:276
+msgid "Website"
+msgstr "Web"
+
+#: inc/custom-functions.php:269
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+#: inc/custom-functions.php:268
+msgid "Name*"
+msgstr "Nombre*"
+
+#: inc/custom-functions.php:55
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: 404.php:20
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: 404.php:19
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: 404.php:18
+msgid "The Page you are looking for does not exist."
+msgstr "La página que estás buscando no existe."
+
+#: 404.php:17
+msgid "Sorry!"
+msgstr "¡Lo siento!"
+
+#: 404.php:16
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:364
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/wedding-band/"
+msgstr "https://rarathemes.com/wordpress-themes/wedding-band/"
